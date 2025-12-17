@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.env
+.env.*
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+
+# VSCode
+.vscode/
+
+# OneDrive temp files
+~$*
